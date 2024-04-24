@@ -1,5 +1,5 @@
 # React Chatbot
-Add an ai-powered chatbot widget to a react or nextjs application in 5 minutes using this package
+Add an ai-powered chatbot widget to a react or nextjs application in 5 minutes using this package. It uses the functionalities of ChatGPT provided by OpenAI.
 
 ## Installation 
 ### npm
